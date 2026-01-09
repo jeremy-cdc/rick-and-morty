@@ -27,7 +27,7 @@ Buscador de **personajes** de la serie **Rick and Morty** consumiendo una **api*
 
 **¡Código abierto al mundo!**    
 
-- Puedes utilizar el producto realizando un `git clone https://github.com/jevmydev/Rick-and-morty` en tu terminal.  
+- Puedes utilizar el producto realizando un `git clone https://github.com/jeremy-cdc/Rick-and-morty` en tu terminal.  
 - Luego emplear `npm run dev` en tu terminal para desplegar un entorno de desarrollo en la web.  
 
 También dispones de: 
